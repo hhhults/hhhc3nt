@@ -25,12 +25,6 @@ For more information about Zola themes in general, check out Zola's
 [official site][zola-docs]. To find out more about d3c3nt's features and
 configuration, head over to the [project's docs][docs].
 
-## whoami
-
-To learn more about me, feel free to check out [my website][FIGBERT] and
-subscribe via the [Atom feed][atom]. You can contact me via email at:
-[figbert+d3c3nt@figbert.com][email].
-
 [FIGBERT]: https://figbert.com/
 [zola]: https://getzola.org/
 [zola-docs]: https://www.getzola.org/documentation/themes/overview/
